@@ -49,7 +49,7 @@ target 'RomeTest' do
     inherit! :search_paths
     # Pods for testing
 
-    pod 'FBSnapshotTestCase'
+    # pod 'FBSnapshotTestCase'
     pod 'OCMock'
     pod 'OHHTTPStubs'
     pod 'Expecta'

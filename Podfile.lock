@@ -24,11 +24,6 @@ PODS:
   - BABCropperView (0.5.3)
   - DAKeyboardControl (2.4.0)
   - Expecta (1.0.6)
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
   - FMDB (2.7.2):
     - FMDB/standard (= 2.7.2)
   - FMDB/standard (2.7.2)
@@ -107,7 +102,6 @@ DEPENDENCIES:
   - BABCropperView
   - DAKeyboardControl
   - Expecta
-  - FBSnapshotTestCase
   - FMDB
   - ISO8601DateFormatter
   - JLRoutes
@@ -137,7 +131,6 @@ SPEC REPOS:
     - BABCropperView
     - DAKeyboardControl
     - Expecta
-    - FBSnapshotTestCase
     - FMDB
     - ISO8601DateFormatter
     - JLRoutes
@@ -166,7 +159,6 @@ SPEC CHECKSUMS:
   BABCropperView: 6fc57e107c82d0ab917043f59abef2eef3e37ddc
   DAKeyboardControl: 9d9bca22a5cc3c1d3cc61e24fbd208c3e84a3d2d
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
   ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
   JLRoutes: d755245322b94227662ea3e43492fdca94e05c5b
@@ -186,6 +178,6 @@ SPEC CHECKSUMS:
   VPInteractiveImageView: d1447f8295467a574364b3369ee9ce84cbab0167
   XNGMarkdownParser: aed98c14f0c0eb20064184ddf9bac26c482722b2
 
-PODFILE CHECKSUM: 4ad860a7756934886c94831965f760a208afeefa
+PODFILE CHECKSUM: feda48ef3eac33323dba9df7f2a03e87b84948de
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.5.3
